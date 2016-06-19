@@ -1,0 +1,12 @@
+name: LuckyBlockWars
+main: LuckyBlockWars\Main
+author: [YOUSEEFXCRAFT]
+version: 2.1.5
+load: POSTWORLD
+api: [1.14.1, 2.0.0, 1.13.1, 1.12.1]
+
+commands:
+ lbw:
+  description: "Get Random Sponge block"
+  permission: luckyblockwars.cmd
+  default: op
