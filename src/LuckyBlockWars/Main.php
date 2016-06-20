@@ -30,8 +30,9 @@ class Main extends Base implements Listener{
         public function onEnable(){
         $this->getLogger()->info("§a*************************************
            §6LuckyBlockWars By YOUSEEFXCRAFT
-           §8version: 2.12dev
+           §8version: 2.16
            §cauthor: ®YOUSEEFXCRAFT
+           §Github: githb.coM
            §dInstagram: @youseefx.mc
            §bChecking Files: §2Enabled
            §eSupports: §5php5 §1php7
